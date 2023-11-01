@@ -6,6 +6,9 @@ public class Demo {
 		System.out.println("HELLOW");
 		System.out.println("hi");
 	}
+	
+	
+	
 	public void add() {
 		System.out.println("add the value");
 	}
